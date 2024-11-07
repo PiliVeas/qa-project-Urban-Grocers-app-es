@@ -30,15 +30,22 @@ kit_body = {  "name":"Abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdab
 
 ## Archivos del proyecto
 
-.gitignore
-README.md
-configuration.py
-create_kit_name_kit_test.py
-data.py
-sender_stand_request.py
+- .gitignore
+- README.md
+- configuration.py
+- create_kit_name_kit_test.py
+- data.py
+- sender_stand_request.py
 
 ## Documentación 
-API Urban Grocers 3.1.1     https://cnt-2d89c67d-8c7f-412c-be7f-05d4e6040112.containerhub.tripleten-services.com/docs/#api-Main.User-CreateUser
-Main.User
-Main.Kits
+API Urban Grocers 3.1.1     
+https://cnt-2d89c67d-8c7f-412c-be7f-05d4e6040112.containerhub.tripleten-services.com/docs/#api-Main.User-CreateUser
+
+- Main.User 
+- Main.Kits
+
+## Recursos
+- GitHub
+- PyCharm
+
 
