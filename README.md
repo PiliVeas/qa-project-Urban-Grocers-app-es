@@ -48,4 +48,15 @@ https://cnt-2d89c67d-8c7f-412c-be7f-05d4e6040112.containerhub.tripleten-services
 - GitHub
 - PyCharm
 
+## Ejecución de Pruebas
 
+Este proyecto utiliza [PyTest] para las pruebas unitarias.
+
+Para ejecutar las pruebas del proyecto puedes ejecutarlas con el siguiente comando:
+
+```bash
+pytest
+
+## Herramientas
+- pytest
+- requests
