@@ -56,6 +56,7 @@ Para ejecutar las pruebas del proyecto puedes ejecutarlas con el siguiente coman
 
 ```bash
 pytest
+```
 
 ## Herramientas
 - pytest
